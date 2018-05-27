@@ -12,7 +12,7 @@ Talks can be anywhere from 5 mins onwards, so don't feel like you need a lot of 
 
 Would you like to see a talk on a particular topic? Something you'd like to understand better, or an interesting area?
 
-Raise an issue with the details and label it with `request`, and we'll see if we can organise someone to give that talk :)
+Raise an [issue](https://github.com/bcnrust/talks/issues) with the details and label it with `request`, and we'll see if we can organise someone to give that talk :)
 
 ### What can I talk about
 
